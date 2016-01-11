@@ -13,16 +13,17 @@
     {
       "id": 3,
       "name": "René Blaim",
-      "surname": "The Ultimate Tennis Machine"
+      "desc": "The Ultimate Tennis Machine"
     },
     {
       "id": 666,
       "name": "Pierre Constantial",
-      "surname": "Le Balanced Pongiste"
+      "desc": "Le Balanced Pongiste"
     },
     {
       "id": 4,
-      "name": "Otto Meinhart"
+      "name": "Otto Meinhart",
+      "desc": "oTTo - oTableTenniso"
     },
     {
       "id": 5,
