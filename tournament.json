@@ -12,7 +12,13 @@
     },
     {
       "id": 3,
-      "name": "René Blaim"
+      "name": "René Blaim",
+      "surname": "The Ultimate Tennis Machine"
+    },
+    {
+      "id": 666,
+      "name": "Pierre Constantial",
+      "surname": "Le Balanced Pongiste"
     }
   ],
   "matches": []
