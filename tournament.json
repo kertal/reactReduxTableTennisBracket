@@ -30,8 +30,12 @@
       "name": "Christian Macher"
     },
     {
-      "id":6
+      "id": 6,
       "name": "Juliana Kund"
+    },
+    {
+      "id": 7,
+      "name": "Bećir Bašić"
     }
   ],
   "matches": []
